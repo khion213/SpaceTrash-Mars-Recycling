@@ -7,7 +7,13 @@
 ![Status](https://img.shields.io/badge/Status-Competition%20Ready-green)
 
 ---
+### 🚀 **How to Access the Simulation**
 
+1. **Click the Demo Link**: [Mars Recycling System 3D Simulation](https://jsfiddle.net/f3jarsz4/3/)
+2. **Click "Run"** to start the simulation
+3. **Wait for Loading** - The 3D environment will initialize
+4. **Go Full Screen** - Click the fullscreen button for best experience
+     
 ## 📋 **Project Overview**
 
 SpaceTrash Hack is an innovative Mars recycling system designed to transform inorganic waste into valuable resources for long-duration space missions. Our solution addresses the critical challenge of waste management on Mars by creating a sustainable, closed-loop system that mimics Earth's natural recycling processes.
@@ -39,13 +45,6 @@ Our Mars recycling system consists of seven interconnected modules:
 ---
 
 ## 🎮 **Interactive 3D Simulation**
-
-### 🚀 **How to Access the Simulation**
-
-1. **Click the Demo Link**: [Mars Recycling System 3D Simulation](https://jsfiddle.net/f3jarsz4/3/)
-2. **Click "Run"** to start the simulation
-3. **Wait for Loading** - The 3D environment will initialize
-4. **Go Full Screen** - Click the fullscreen button for best experience
 
 ### 🎯 **How to Use the Interactive Demo**
 
