@@ -14,7 +14,7 @@
 3. **Wait for Loading** - The 3D environment will initialize
 4. **Go Full Screen** - Click the fullscreen button for best experience
 
-![Mars Recycling System Preview](3D.png)
+![Mars Recycling System Preview](3d.png)
 
 ## 📋 **Project Overview**
 
