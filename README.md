@@ -6,7 +6,7 @@
 ![NASA Space Apps](https://img.shields.io/badge/NASA-Space%20Apps%202025-blue)
 ![Status](https://img.shields.io/badge/Status-Competition%20Ready-green)
 
----
+--- 
 ### 🚀 **How to Access the Simulation**
 
 1. **Click the Demo Link**: [Mars Recycling System 3D Simulation](https://jsfiddle.net/f3jarsz4/3/)
