@@ -42,7 +42,7 @@ Our Mars recycling system consists of seven interconnected modules:
 
 ### 🚀 **How to Access the Simulation**
 
-1. **Click the Demo Link**: [Mars Recycling System 3D Simulation](https://jsfiddle.net/khion213/jwfax3kp/5/)
+1. **Click the Demo Link**: [Mars Recycling System 3D Simulation](https://jsfiddle.net/f3jarsz4/3/)
 2. **Click "Run"** to start the simulation
 3. **Wait for Loading** - The 3D environment will initialize
 4. **Go Full Screen** - Click the fullscreen button for best experience
