@@ -77,7 +77,16 @@ Our Mars recycling system consists of seven interconnected modules:
 
 ### 📂 **Access All Project Files**
 
-To view all project files including presentations, research papers, and technical documentation, please navigate to the **"Our Future Home Mars"** folder where you can browse all project materials and resources.
+To explore all project materials, including:  
+- Full presentation  
+- Research paper  
+- Demo presentation  
+- Three code files representing the project simulation  
+
+Please click the repository link below to access all files:  
+
+🔗 [Repository Link](https://jsfiddle.net/khion213/jwfax3kp/5/)  
+
 
 ---
 
